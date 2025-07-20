@@ -1,0 +1,2 @@
+echo. > public/.gitkeep
+echo. > server/.gitkeep
